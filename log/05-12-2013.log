@@ -1,0 +1,7475 @@
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+good time (0.027)
+good time (0.027)
+www.google.com.......
+long time (104.928)
+long time (104.928)
+long time (104.928)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+no connection
+192.168.1.66: no_connection_count = 1
+no connection
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+good time (0.027)
+good time (0.027)
+www.google.com.......
+long time (76.363)
+long time (76.363)
+long time (76.363)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+no connection
+no connection
+192.168.1.66: no_connection_count = 2
+no connection
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+good time (0.028)
+good time (0.028)
+www.google.com.......
+long time (80.770)
+long time (80.770)
+long time (80.770)
+www.google.com: long_time_count = 3
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+C IN COUNT 1 IS 0
+C IN COUNT 2 IS 0
+www.google.com.......
+long time (134.524)
+C IN COUNT 1 IS 0
+C IN COUNT 2 IS 1
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+C IN COUNT 1 IS 1
+192.168.1.66: no_connection_count = 1
+C IN COUNT 2 IS 0
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (1.176)
+C IN COUNT 1 IS 0
+C IN COUNT 2 IS 0
+www.google.com.......
+long time (75.939)
+C IN COUNT 1 IS 0
+C IN COUNT 2 IS 2
+www.google.com: long_time_count = 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.791)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+THIS PLACE
+www.google.com.......
+long time (90.383)
+www.google.com: long_time_count = 1
+THIS PLACE
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.025)
+c_1 is 0 and check_limit is 2
+www.google.com.......
+long time (116.835)
+www.google.com: long_time_count = 1
+c_1 is 0 and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+c_1 is 192.168.1.66: no_connection_count = 1
+1 and check_limit is 2
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+c_1 is 0 and check_limit is 2
+www.google.com.......
+long time (77.580)
+www.google.com: long_time_count = 2
+c_1 is 0 and check_limit is 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.542)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (113.869)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+c_1 is  and check_limit is 2
+www.google.com.......
+long time (154.957)
+www.google.com: long_time_count = 1
+c_1 is  and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+c_1 is  and check_limit is 2
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+c_1 is  and check_limit is 2
+www.google.com.......
+long time (156.989)
+www.google.com: long_time_count = 2
+c_1 is  and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+c_1 is  and check_limit is 2
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+c_1 is  and check_limit is 2
+www.google.com.......
+long time (75.302)
+www.google.com: long_time_count = 3
+c_1 is  and check_limit is 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+c_1 is 0, c_2 is 0 and check_limit is 2
+www.google.com.......
+long time (76.460)
+www.google.com: long_time_count = 1
+c_1 is 0, c_2 is www.google.com: long_time_count = 1
+1 and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+c_1 is 192.168.1.66: no_connection_count = 1
+1, c_2 is 0 and check_limit is 2
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+c_1 is 0, c_2 is 0 and check_limit is 2
+www.google.com.......
+long time (77.384)
+www.google.com: long_time_count = 2
+c_1 is 0, c_2 is www.google.com: long_time_count = 2
+2 and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+c_1 is 192.168.1.66: no_connection_count = 2
+2, c_2 is 0 and check_limit is 2
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.044)
+c_1 is 0, c_2 is 0 and check_limit is 2
+www.google.com.......
+long time (80.274)
+www.google.com: long_time_count = 3
+c_1 is 0, c_2 is www.google.com: long_time_count = 3
+3 and check_limit is 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.025)
+c_1 is 0, c_2 is 0 and check_limit is 2
+www.google.com.......
+long time (93.246)
+www.google.com: long_time_count = 1
+c_1 is 0, c_2 is 1 and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+c_1 is 1, c_2 is 0 and check_limit is 2
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+c_1 is 0, c_2 is 0 and check_limit is 2
+www.google.com.......
+long time (78.568)
+www.google.com: long_time_count = 2
+c_1 is 0, c_2 is 2 and check_limit is 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+c_1 is 2, c_2 is 0 and check_limit is 2
+SMS:  \n Long time to  \n No connection to 
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+c_1 is 0, c_2 is 0 and check_limit is 2
+www.google.com.......
+long time (79.672)
+www.google.com: long_time_count = 3
+c_1 is 0, c_2 is 3 and check_limit is 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.025)
+www.google.com.......
+long time (81.078)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.247)
+www.google.com.......
+long time (223.086)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+SMS:  \n Long time to  \n No connection to 
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.770)
+www.google.com: long_time_count = 3
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 3
+start 4: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.735)
+www.google.com: long_time_count = 4
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 4
+start 5: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.424)
+www.google.com: long_time_count = 5
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 5
+start 6: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.157)
+www.google.com: long_time_count = 6
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 6
+start 7: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.088)
+www.google.com: long_time_count = 7
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 7
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.051)
+www.google.com.......
+long time (134.905)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (126.733)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+SMS:  \n Long time to  \n No connection to 
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.223)
+www.google.com: long_time_count = 3
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 3
+start 4: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.028)
+www.google.com: long_time_count = 4
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 4
+start 5: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.410)
+www.google.com: long_time_count = 5
+192.168.1.66.......
+\nstart 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (189.899)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+\nstart 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.276)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+SMS:  \n Long time to  \n No connection to 
+\nstart 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (109.427)
+www.google.com: long_time_count = 3
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 3
+\nstart 4: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.335)
+www.google.com: long_time_count = 4
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 4
+\nstart 5: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (77.683)
+www.google.com: long_time_count = 5
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 5
+\nstart 6: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (80.516)
+www.google.com: long_time_count = 6
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 6
+\nstart 7: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (80.538)
+www.google.com: long_time_count = 7
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 7
+\nstart 8: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.720)
+www.google.com: long_time_count = 8
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 8
+\nstart 9: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.840)
+www.google.com: long_time_count = 9
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 9
+\nstart 10: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.140)
+www.google.com: long_time_count = 10
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 10
+\nstart 11: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (141.934)
+www.google.com: long_time_count = 11
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 11
+\nstart 12: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.819)
+www.google.com: long_time_count = 12
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 12
+\nstart 13: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.743)
+www.google.com: long_time_count = 13
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 13
+\nstart 14: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (80.011)
+www.google.com: long_time_count = 14
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 14
+\nstart 15: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.813)
+www.google.com: long_time_count = 15
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 15
+\nstart 16: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (110.854)
+www.google.com: long_time_count = 16
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 16
+\nstart 17: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.847)
+www.google.com: long_time_count = 17
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 17
+\nstart 18: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.187)
+www.google.com: long_time_count = 18
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 18
+\nstart 19: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.294)
+www.google.com: long_time_count = 19
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 19
+\nstart 20: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (77.276)
+www.google.com: long_time_count = 20
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 20
+\nstart 21: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.282)
+www.google.com: long_time_count = 21
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 21
+\nstart 22: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (75.859)
+www.google.com: long_time_count = 22
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 22
+\nstart 23: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (123.954)
+www.google.com: long_time_count = 23
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 23
+\nstart 24: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.851)
+www.google.com: long_time_count = 24
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 24
+\nstart 25: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.065)
+www.google.com: long_time_count = 25
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 25
+\nstart 26: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (82.060)
+www.google.com: long_time_count = 26
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 26
+\nstart 27: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.019)
+www.google.com: long_time_count = 27
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 27
+\nstart 28: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (138.574)
+www.google.com: long_time_count = 28
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 28
+\nstart 29: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (76.319)
+www.google.com: long_time_count = 29
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 29
+\nstart 30: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.184)
+www.google.com: long_time_count = 30
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 30
+\nstart 31: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (95.931)
+www.google.com: long_time_count = 31
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 31
+\nstart 32: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (79.888)
+www.google.com: long_time_count = 32
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 32
+\nstart 33: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.518)
+www.google.com: long_time_count = 33
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 33
+\nstart 34: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (110.032)
+www.google.com: long_time_count = 34
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 34
+\nstart 35: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.271)
+www.google.com: long_time_count = 35
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 35
+\nstart 36: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.994)
+www.google.com: long_time_count = 36
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 36
+\nstart 37: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.037)
+www.google.com: long_time_count = 37
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 37
+\nstart 38: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (93.063)
+www.google.com: long_time_count = 38
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 38
+\nstart 39: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (159.919)
+www.google.com: long_time_count = 39
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 39
+\nstart 40: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.237)
+www.google.com: long_time_count = 40
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 40
+\nstart 41: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (84.538)
+www.google.com: long_time_count = 41
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 41
+\nstart 42: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.971)
+www.google.com: long_time_count = 42
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 42
+\nstart 43: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (100.512)
+www.google.com: long_time_count = 43
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 43
+\nstart 44: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.301)
+www.google.com: long_time_count = 44
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 44
+\nstart 45: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (78.287)
+www.google.com: long_time_count = 45
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 45
+\nstart 46: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (77.727)
+www.google.com: long_time_count = 46
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 46
+\nstart 47: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (79.710)
+www.google.com: long_time_count = 47
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 47
+\nstart 48: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.440)
+www.google.com: long_time_count = 48
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 48
+\nstart 49: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (104.529)
+www.google.com: long_time_count = 49
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 49
+\nstart 50: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.274)
+www.google.com: long_time_count = 50
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 50
+\nstart 51: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (81.754)
+www.google.com: long_time_count = 51
+192.168.1.66.......
+
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.820)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (125.140)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+SMS:  \n Long time to www.google.com \n No connection to 192.168.1.66
+
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (91.737)
+www.google.com: long_time_count = 3
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 3
+
+start 4: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (76.262)
+www.google.com: long_time_count = 4
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 4
+
+start 5: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.025)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 4
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 5
+
+start 6: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (267.488)
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 5
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 6
+
+start 7: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (152.117)
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 6
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 7
+
+start 8: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.222)
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 7
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 8
+
+start 9: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (88.097)
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 8
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 9
+
+start 10: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.233)
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 9
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 10
+
+start 11: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (98.695)
+www.google.com: no_connection_count = 1
+www.google.com: long_time_count = 10
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 11
+
+start 12: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 10
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 12
+SMS:  \n No connection to www.google.com
+
+start 13: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.111)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 11
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 13
+SMS:  \n No connection to www.google.com
+
+start 14: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (78.011)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 12
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 14
+SMS:  \n No connection to www.google.com
+
+start 15: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.758)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 13
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 15
+SMS:  \n No connection to www.google.com
+
+start 16: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (161.877)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 14
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 16
+SMS:  \n No connection to www.google.com
+
+start 17: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.050)
+www.google.com.......
+long time (76.307)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 15
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 17
+SMS:  \n No connection to www.google.com
+
+start 18: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (148.013)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 16
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 18
+SMS:  \n No connection to www.google.com
+
+start 19: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (124.383)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 17
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 19
+SMS:  \n No connection to www.google.com
+
+start 20: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.044)
+www.google.com.......
+long time (133.602)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 18
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 20
+SMS:  \n No connection to www.google.com
+
+start 21: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (146.259)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 19
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 21
+SMS:  \n No connection to www.google.com
+
+start 22: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (77.703)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 20
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 22
+SMS:  \n No connection to www.google.com
+
+start 23: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (83.490)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 21
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 23
+SMS:  \n No connection to www.google.com
+
+start 24: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.450)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 22
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 24
+SMS:  \n No connection to www.google.com
+
+start 25: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.039)
+www.google.com.......
+long time (83.359)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 23
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 25
+SMS:  \n No connection to www.google.com
+
+start 26: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.316)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 24
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 26
+SMS:  \n No connection to www.google.com
+
+start 27: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (121.641)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 25
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 27
+SMS:  \n No connection to www.google.com
+
+start 28: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.585)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 26
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 28
+SMS:  \n No connection to www.google.com
+
+start 29: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (102.271)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 27
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 29
+SMS:  \n No connection to www.google.com
+
+start 30: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (126.718)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 28
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 30
+SMS:  \n No connection to www.google.com
+
+start 31: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (99.513)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 29
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 31
+SMS:  \n No connection to www.google.com
+
+start 32: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.881)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 30
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 32
+SMS:  \n No connection to www.google.com
+
+start 33: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.638)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 31
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 33
+SMS:  \n No connection to www.google.com
+
+start 34: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.218)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 32
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 34
+SMS:  \n No connection to www.google.com
+
+start 35: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (75.701)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 33
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 35
+SMS:  \n No connection to www.google.com
+
+start 36: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (167.833)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 34
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 36
+SMS:  \n No connection to www.google.com
+
+start 37: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (75.839)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 35
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 37
+SMS:  \n No connection to www.google.com
+
+start 38: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.145)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 36
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 38
+SMS:  \n No connection to www.google.com
+
+start 39: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (77.639)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 37
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 39
+SMS:  \n No connection to www.google.com
+
+start 40: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (131.543)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 38
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 40
+SMS:  \n No connection to www.google.com
+
+start 41: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.249)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 39
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 41
+SMS:  \n No connection to www.google.com
+
+start 42: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.284)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 40
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 42
+SMS:  \n No connection to www.google.com
+
+start 43: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (79.832)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 41
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 43
+SMS:  \n No connection to www.google.com
+
+start 44: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.352)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 42
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 44
+SMS:  \n No connection to www.google.com
+
+start 45: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (76.198)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 43
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 45
+SMS:  \n No connection to www.google.com
+
+start 46: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (77.042)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 44
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 46
+SMS:  \n No connection to www.google.com
+
+start 47: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (80.051)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 45
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 47
+SMS:  \n No connection to www.google.com
+
+start 48: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (121.197)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 46
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 48
+SMS:  \n No connection to www.google.com
+
+start 49: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (405.095)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 47
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 49
+SMS:  \n No connection to www.google.com
+
+start 50: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (75.721)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 48
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 50
+SMS:  \n No connection to www.google.com
+
+start 51: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (154.539)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 49
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 51
+SMS:  \n No connection to www.google.com
+
+start 52: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.878)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 50
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 52
+SMS:  \n No connection to www.google.com
+
+start 53: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.932)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 51
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 53
+SMS:  \n No connection to www.google.com
+
+start 54: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.817)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 52
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 54
+SMS:  \n No connection to www.google.com
+
+start 55: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.635)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 53
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 55
+SMS:  \n No connection to www.google.com
+
+start 56: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (121.789)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 54
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 56
+SMS:  \n No connection to www.google.com
+
+start 57: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (129.478)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 55
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 57
+SMS:  \n No connection to www.google.com
+
+start 58: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (136.637)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 56
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 58
+SMS:  \n No connection to www.google.com
+
+start 59: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.040)
+www.google.com.......
+long time (79.635)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 57
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 59
+SMS:  \n No connection to www.google.com
+
+start 60: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (76.856)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 58
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 60
+SMS:  \n No connection to www.google.com
+
+start 61: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (87.022)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 59
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 61
+SMS:  \n No connection to www.google.com
+
+start 62: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.538)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 60
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 62
+SMS:  \n No connection to www.google.com
+
+start 63: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (203.236)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 61
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 63
+SMS:  \n No connection to www.google.com
+
+start 64: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (80.652)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 62
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 64
+SMS:  \n No connection to www.google.com
+
+start 65: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (88.917)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 63
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 65
+SMS:  \n No connection to www.google.com
+
+start 66: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.878)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 64
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 66
+SMS:  \n No connection to www.google.com
+
+start 67: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (83.806)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 65
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 67
+SMS:  \n No connection to www.google.com
+
+start 68: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.052)
+www.google.com.......
+long time (83.508)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 66
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 68
+SMS:  \n No connection to www.google.com
+
+start 69: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (78.157)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 67
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 69
+SMS:  \n No connection to www.google.com
+
+start 70: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.023)
+www.google.com.......
+long time (103.834)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 68
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 70
+SMS:  \n No connection to www.google.com
+
+start 71: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (188.776)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 69
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 71
+SMS:  \n No connection to www.google.com
+
+start 72: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (80.207)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 70
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 72
+SMS:  \n No connection to www.google.com
+
+start 73: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (79.963)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 71
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 73
+SMS:  \n No connection to www.google.com
+
+start 74: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (81.188)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 72
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 74
+SMS:  \n No connection to www.google.com
+
+start 75: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.168)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 73
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 75
+SMS:  \n No connection to www.google.com
+
+start 76: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (79.641)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 74
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 76
+SMS:  \n No connection to www.google.com
+
+start 77: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (77.826)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 75
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 77
+SMS:  \n No connection to www.google.com
+
+start 78: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (78.199)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 76
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 78
+SMS:  \n No connection to www.google.com
+
+start 79: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (179.937)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 77
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 79
+SMS:  \n No connection to www.google.com
+
+start 80: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.918)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 78
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 80
+SMS:  \n No connection to www.google.com
+
+start 81: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.061)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 79
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 81
+SMS:  \n No connection to www.google.com
+
+start 82: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (86.152)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 80
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 82
+SMS:  \n No connection to www.google.com
+
+start 83: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (75.779)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 81
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 83
+SMS:  \n No connection to www.google.com
+
+start 84: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.330)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 82
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 84
+SMS:  \n No connection to www.google.com
+
+start 85: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (125.091)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 83
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 85
+SMS:  \n No connection to www.google.com
+
+start 86: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.677)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 84
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 86
+SMS:  \n No connection to www.google.com
+
+start 87: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (167.265)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 85
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 87
+SMS:  \n No connection to www.google.com
+
+start 88: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (107.510)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 86
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 88
+SMS:  \n No connection to www.google.com
+
+start 89: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.598)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 87
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 89
+SMS:  \n No connection to www.google.com
+
+start 90: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (103.627)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 88
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 90
+SMS:  \n No connection to www.google.com
+
+start 91: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.493)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 89
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 91
+SMS:  \n No connection to www.google.com
+
+start 92: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (237.053)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 90
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 92
+SMS:  \n No connection to www.google.com
+
+start 93: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (80.131)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 91
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 93
+SMS:  \n No connection to www.google.com
+
+start 94: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (172.115)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 92
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 94
+SMS:  \n No connection to www.google.com
+
+start 95: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.025)
+www.google.com.......
+long time (135.204)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 93
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 95
+SMS:  \n No connection to www.google.com
+
+start 96: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (76.599)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 94
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 96
+SMS:  \n No connection to www.google.com
+
+start 97: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.478)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 95
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 97
+SMS:  \n No connection to www.google.com
+
+start 98: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (138.869)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 96
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 98
+SMS:  \n No connection to www.google.com
+
+start 99: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.478)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 97
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 99
+SMS:  \n No connection to www.google.com
+
+start 100: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.740)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 98
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 100
+SMS:  \n No connection to www.google.com
+
+start 101: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.721)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 99
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 101
+SMS:  \n No connection to www.google.com
+
+start 102: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (84.282)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 100
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 102
+SMS:  \n No connection to www.google.com
+
+start 103: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (142.919)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 101
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 103
+SMS:  \n No connection to www.google.com
+
+start 104: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.597)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 102
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 104
+SMS:  \n No connection to www.google.com
+
+start 105: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.705)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 103
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 105
+SMS:  \n No connection to www.google.com
+
+start 106: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (106.241)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 104
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 106
+SMS:  \n No connection to www.google.com
+
+start 107: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (78.450)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 105
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 107
+SMS:  \n No connection to www.google.com
+
+start 108: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (82.605)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 106
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 108
+SMS:  \n No connection to www.google.com
+
+start 109: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (87.351)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 107
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 109
+SMS:  \n No connection to www.google.com
+
+start 110: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (122.601)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 108
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 110
+SMS:  \n No connection to www.google.com
+
+start 111: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (156.756)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 109
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 111
+SMS:  \n No connection to www.google.com
+
+start 112: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (116.658)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 110
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 112
+SMS:  \n No connection to www.google.com
+
+start 113: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.023)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 111
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 113
+SMS:  \n No connection to www.google.com
+
+start 114: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (81.931)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 112
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 114
+SMS:  \n No connection to www.google.com
+
+start 115: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.269)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 113
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 115
+SMS:  \n No connection to www.google.com
+
+start 116: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (87.019)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 114
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 116
+SMS:  \n No connection to www.google.com
+
+start 117: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (103.977)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 115
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 117
+SMS:  \n No connection to www.google.com
+
+start 118: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (77.055)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 116
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 118
+SMS:  \n No connection to www.google.com
+
+start 119: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.431)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 117
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 119
+SMS:  \n No connection to www.google.com
+
+start 120: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (200.467)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 118
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 120
+SMS:  \n No connection to www.google.com
+
+start 121: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (78.043)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 119
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 121
+SMS:  \n No connection to www.google.com
+
+start 122: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (92.595)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 120
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 122
+SMS:  \n No connection to www.google.com
+
+start 123: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (127.158)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 121
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 123
+SMS:  \n No connection to www.google.com
+
+start 124: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.013)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 122
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 124
+SMS:  \n No connection to www.google.com
+
+start 125: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (84.404)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 123
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 125
+SMS:  \n No connection to www.google.com
+
+start 126: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (79.173)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 124
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 126
+SMS:  \n No connection to www.google.com
+
+start 127: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (81.039)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 125
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 127
+SMS:  \n No connection to www.google.com
+
+start 128: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.243)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 126
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 128
+SMS:  \n No connection to www.google.com
+
+start 129: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.505)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 127
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 129
+SMS:  \n No connection to www.google.com
+
+start 130: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.025)
+www.google.com.......
+long time (161.240)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 128
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 130
+SMS:  \n No connection to www.google.com
+
+start 131: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.973)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 129
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 131
+SMS:  \n No connection to www.google.com
+
+start 132: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.083)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 130
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 132
+SMS:  \n No connection to www.google.com
+
+start 133: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.400)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 131
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 133
+SMS:  \n No connection to www.google.com
+
+start 134: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (121.986)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 132
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 134
+SMS:  \n No connection to www.google.com
+
+start 135: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (92.964)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 133
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 135
+SMS:  \n No connection to www.google.com
+
+start 136: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (81.604)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 134
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 136
+SMS:  \n No connection to www.google.com
+
+start 137: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.329)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 135
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 137
+SMS:  \n No connection to www.google.com
+
+start 138: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.452)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 136
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 138
+SMS:  \n No connection to www.google.com
+
+start 139: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (80.817)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 137
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 139
+SMS:  \n No connection to www.google.com
+
+start 140: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (162.954)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 138
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 140
+SMS:  \n No connection to www.google.com
+
+start 141: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.029)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 139
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 141
+SMS:  \n No connection to www.google.com
+
+start 142: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (82.036)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 140
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 142
+SMS:  \n No connection to www.google.com
+
+start 143: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (77.378)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 141
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 143
+SMS:  \n No connection to www.google.com
+
+start 144: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (79.324)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 142
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 144
+SMS:  \n No connection to www.google.com
+
+start 145: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (91.134)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 143
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 145
+SMS:  \n No connection to www.google.com
+
+start 146: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (79.118)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 144
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 146
+SMS:  \n No connection to www.google.com
+
+start 147: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (81.196)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 145
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 147
+SMS:  \n No connection to www.google.com
+
+start 148: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (163.074)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 146
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 148
+SMS:  \n No connection to www.google.com
+
+start 149: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.622)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 147
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 149
+SMS:  \n No connection to www.google.com
+
+start 150: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (1206.243)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 148
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 150
+SMS:  \n No connection to www.google.com
+
+start 151: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (76.253)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 149
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 151
+SMS:  \n No connection to www.google.com
+
+start 152: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (182.112)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 150
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 152
+SMS:  \n No connection to www.google.com
+
+start 153: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.045)
+www.google.com.......
+long time (157.671)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 151
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 153
+SMS:  \n No connection to www.google.com
+
+start 154: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.114)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 152
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 154
+SMS:  \n No connection to www.google.com
+
+start 155: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.712)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 153
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 155
+SMS:  \n No connection to www.google.com
+
+start 156: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.526)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 154
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 156
+SMS:  \n No connection to www.google.com
+
+start 157: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (98.536)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 155
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 157
+SMS:  \n No connection to www.google.com
+
+start 158: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.167)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 156
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 158
+SMS:  \n No connection to www.google.com
+
+start 159: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (151.187)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 157
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 159
+SMS:  \n No connection to www.google.com
+
+start 160: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (343.297)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 158
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 160
+SMS:  \n No connection to www.google.com
+
+start 161: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (298.243)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 159
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 161
+SMS:  \n No connection to www.google.com
+
+start 162: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (156.607)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 160
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 162
+SMS:  \n No connection to www.google.com
+
+start 163: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (93.290)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 161
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 163
+SMS:  \n No connection to www.google.com
+
+start 164: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (86.593)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 162
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 164
+SMS:  \n No connection to www.google.com
+
+start 165: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (136.595)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 163
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 165
+SMS:  \n No connection to www.google.com
+
+start 166: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (124.334)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 164
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 166
+SMS:  \n No connection to www.google.com
+
+start 167: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.536)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 165
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 167
+SMS:  \n No connection to www.google.com
+
+start 168: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (360.257)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 166
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 168
+SMS:  \n No connection to www.google.com
+
+start 169: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (101.993)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 167
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 169
+SMS:  \n No connection to www.google.com
+
+start 170: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (79.091)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 168
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 170
+SMS:  \n No connection to www.google.com
+
+start 171: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (180.320)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 169
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 171
+SMS:  \n No connection to www.google.com
+
+start 172: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (77.461)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 170
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 172
+SMS:  \n No connection to www.google.com
+
+start 173: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (85.070)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 171
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 173
+SMS:  \n No connection to www.google.com
+
+start 174: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (76.994)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 172
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 174
+SMS:  \n No connection to www.google.com
+
+start 175: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.120)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 173
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 175
+SMS:  \n No connection to www.google.com
+
+start 176: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (159.540)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 174
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 176
+SMS:  \n No connection to www.google.com
+
+start 177: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.490)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 175
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 177
+SMS:  \n No connection to www.google.com
+
+start 178: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.844)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 176
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 178
+SMS:  \n No connection to www.google.com
+
+start 179: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (128.366)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 177
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 179
+SMS:  \n No connection to www.google.com
+
+start 180: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (100.956)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 178
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 180
+SMS:  \n No connection to www.google.com
+
+start 181: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (76.391)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 179
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 181
+SMS:  \n No connection to www.google.com
+
+start 182: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.214)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 180
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 182
+SMS:  \n No connection to www.google.com
+
+start 183: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (335.714)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 181
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 183
+SMS:  \n No connection to www.google.com
+
+start 184: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.750)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 182
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 184
+SMS:  \n No connection to www.google.com
+
+start 185: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (140.261)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 183
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 185
+SMS:  \n No connection to www.google.com
+
+start 186: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (76.871)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 184
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 186
+SMS:  \n No connection to www.google.com
+
+start 187: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (80.633)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 185
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 187
+SMS:  \n No connection to www.google.com
+
+start 188: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (80.099)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 186
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 188
+SMS:  \n No connection to www.google.com
+
+start 189: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (79.008)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 187
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 189
+SMS:  \n No connection to www.google.com
+
+start 190: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (82.404)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 188
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 190
+SMS:  \n No connection to www.google.com
+
+start 191: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.664)
+www.google.com: no_connection_count = 2
+www.google.com: long_time_count = 189
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 191
+SMS:  \n No connection to www.google.com
+
+start 192: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 189
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 192
+
+start 193: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (123.522)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 190
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 193
+
+start 194: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (86.062)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 191
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 194
+
+start 195: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (81.471)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 192
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 195
+
+start 196: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (79.987)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 193
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 196
+
+start 197: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.114)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 194
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 197
+
+start 198: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (78.264)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 195
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 198
+
+start 199: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.915)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 196
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 199
+
+start 200: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.194)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 197
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 200
+
+start 201: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (203.009)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 198
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 201
+
+start 202: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.887)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 199
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 202
+
+start 203: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (78.233)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 200
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 203
+
+start 204: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (162.679)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 201
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 204
+
+start 205: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.218)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 202
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 205
+
+start 206: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.532)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 203
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 206
+
+start 207: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (112.612)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 204
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 207
+
+start 208: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (125.911)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 205
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 208
+
+start 209: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.151)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 206
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 209
+
+start 210: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (75.868)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 207
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 210
+
+start 211: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.999)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 208
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 211
+
+start 212: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (102.159)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 209
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 212
+
+start 213: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (81.816)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 210
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 213
+
+start 214: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (155.856)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 211
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 214
+
+start 215: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.996)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 212
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 215
+
+start 216: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.019)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 213
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 216
+
+start 217: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.201)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 214
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 217
+
+start 218: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (144.250)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 215
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 218
+
+start 219: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (139.317)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 216
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 219
+
+start 220: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (77.320)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 217
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 220
+
+start 221: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (75.311)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 218
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 221
+
+start 222: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (75.041)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 219
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 222
+
+start 223: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.649)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 220
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 223
+
+start 224: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.907)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 221
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 224
+
+start 225: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (79.878)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 222
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 225
+
+start 226: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (151.159)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 223
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 226
+
+start 227: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.055)
+www.google.com.......
+long time (86.493)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 224
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 227
+
+start 228: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (83.406)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 225
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 228
+
+start 229: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (136.981)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 226
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 229
+
+start 230: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (94.234)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 227
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 230
+
+start 231: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (105.945)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 228
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 231
+
+start 232: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (86.305)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 229
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 232
+
+start 233: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.270)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 230
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 233
+
+start 234: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.260)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 231
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 234
+
+start 235: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (79.317)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 232
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 235
+
+start 236: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (96.938)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 233
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 236
+
+start 237: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (94.206)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 234
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 237
+
+start 238: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.483)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 235
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 238
+
+start 239: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (79.639)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 236
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 239
+
+start 240: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (76.850)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 237
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 240
+
+start 241: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.445)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 238
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 241
+
+start 242: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (108.560)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 239
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 242
+
+start 243: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.555)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 240
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 243
+
+start 244: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.796)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 241
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 244
+
+start 245: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.503)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 242
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 245
+
+start 246: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (81.066)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 243
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 246
+
+start 247: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (80.077)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 244
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 247
+
+start 248: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (98.819)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 245
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 248
+
+start 249: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (220.444)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 246
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 249
+
+start 250: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (86.748)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 247
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 250
+
+start 251: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (112.224)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 248
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 251
+
+start 252: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (117.584)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 249
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 252
+
+start 253: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (85.503)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 250
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 253
+
+start 254: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (88.831)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 251
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 254
+
+start 255: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (87.595)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 252
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 255
+
+start 256: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (85.145)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 253
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 256
+
+start 257: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (93.306)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 254
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 257
+
+start 258: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (145.049)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 255
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 258
+
+start 259: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (77.322)
+www.google.com: no_connection_count = 3
+www.google.com: long_time_count = 256
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 259
+
+start 260: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 256
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 260
+
+start 261: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (80.720)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 257
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 261
+
+start 262: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.042)
+www.google.com.......
+long time (163.587)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 258
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 262
+
+start 263: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.980)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 259
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 263
+
+start 264: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (130.123)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 260
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 264
+
+start 265: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (79.058)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 261
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 265
+
+start 266: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.054)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 262
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 266
+
+start 267: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (158.381)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 263
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 267
+
+start 268: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (85.737)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 264
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 268
+
+start 269: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (75.714)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 265
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 269
+
+start 270: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (88.374)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 266
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 270
+
+start 271: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (131.921)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 267
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 271
+
+start 272: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (134.216)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 268
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 272
+
+start 273: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (80.846)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 269
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 273
+
+start 274: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.978)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 270
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 274
+
+start 275: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (99.417)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 271
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 275
+
+start 276: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (92.384)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 272
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 276
+
+start 277: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (77.670)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 273
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 277
+
+start 278: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.041)
+www.google.com.......
+long time (77.064)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 274
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 278
+
+start 279: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (80.847)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 275
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 279
+
+start 280: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.475)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 276
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 280
+
+start 281: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.416)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 277
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 281
+
+start 282: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (105.302)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 278
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 282
+
+start 283: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.702)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 279
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 283
+
+start 284: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (116.545)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 280
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 284
+
+start 285: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.563)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 281
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 285
+
+start 286: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.412)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 282
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 286
+
+start 287: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.405)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 283
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 287
+
+start 288: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (83.318)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 284
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 288
+
+start 289: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.831)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 285
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 289
+
+start 290: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (177.778)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 286
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 290
+
+start 291: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (82.919)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 287
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 291
+
+start 292: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (115.457)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 288
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 292
+
+start 293: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (90.483)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 289
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 293
+
+start 294: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (155.517)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 290
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 294
+
+start 295: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.047)
+www.google.com.......
+long time (120.037)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 291
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 295
+
+start 296: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (131.751)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 292
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 296
+
+start 297: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (162.936)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 293
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 297
+
+start 298: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (130.103)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 294
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 298
+
+start 299: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (79.657)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 295
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 299
+
+start 300: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (80.529)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 296
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 300
+
+start 301: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.347)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 297
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 301
+
+start 302: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.957)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 298
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 302
+
+start 303: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (181.855)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 299
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 303
+
+start 304: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (80.120)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 300
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 304
+
+start 305: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.340)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 301
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 305
+
+start 306: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (82.035)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 302
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 306
+
+start 307: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.823)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 303
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 307
+
+start 308: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (75.613)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 304
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 308
+
+start 309: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (76.037)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 305
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 309
+
+start 310: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.373)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 306
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 310
+
+start 311: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.410)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 307
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 311
+
+start 312: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.920)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 308
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 312
+
+start 313: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (532.143)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 309
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 313
+
+start 314: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (83.485)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 310
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 314
+
+start 315: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (79.044)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 311
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 315
+
+start 316: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (171.190)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 312
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 316
+
+start 317: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.092)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 313
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 317
+
+start 318: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (76.944)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 314
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 318
+
+start 319: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (86.257)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 315
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 319
+
+start 320: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.673)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 316
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 320
+
+start 321: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (83.155)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 317
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 321
+
+start 322: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.312)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 318
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 322
+
+start 323: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (79.632)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 319
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 323
+
+start 324: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (79.417)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 320
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 324
+
+start 325: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (84.774)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 321
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 325
+
+start 326: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (79.868)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 322
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 326
+
+start 327: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (138.644)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 323
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 327
+
+start 328: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (78.439)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 324
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 328
+
+start 329: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (79.199)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 325
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 329
+
+start 330: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.054)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 326
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 330
+
+start 331: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.944)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 327
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 331
+
+start 332: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.156)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 328
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 332
+
+start 333: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.073)
+www.google.com.......
+long time (76.438)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 329
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 333
+
+start 334: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.775)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 330
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 334
+
+start 335: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (157.270)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 331
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 335
+
+start 336: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (156.836)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 332
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 336
+
+start 337: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (139.435)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 333
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 337
+
+start 338: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (114.991)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 334
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 338
+
+start 339: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (223.046)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 335
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 339
+
+start 340: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.906)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 336
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 340
+
+start 341: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.059)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 337
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 341
+
+start 342: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (74.854)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 338
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 342
+
+start 343: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.752)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 339
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 343
+
+start 344: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (80.267)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 340
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 344
+
+start 345: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.160)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 341
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 345
+
+start 346: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.247)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 342
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 346
+
+start 347: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (82.068)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 343
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 347
+
+start 348: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (81.885)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 344
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 348
+
+start 349: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (75.650)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 345
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 349
+
+start 350: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (75.701)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 346
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 350
+
+start 351: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (78.509)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 347
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 351
+
+start 352: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.787)
+www.google.com: no_connection_count = 4
+www.google.com: long_time_count = 348
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 352
+
+start 353: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 348
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 353
+
+start 354: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.237)
+www.google.com.......
+long time (76.218)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 349
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 354
+
+start 355: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (87.412)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 350
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 355
+
+start 356: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (119.195)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 351
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 356
+
+start 357: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (77.882)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 352
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 357
+
+start 358: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.022)
+www.google.com.......
+long time (75.701)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 353
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 358
+
+start 359: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (75.406)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 354
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 359
+
+start 360: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.045)
+www.google.com.......
+long time (81.919)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 355
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 360
+
+start 361: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (74.915)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 356
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 361
+
+start 362: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (82.425)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 357
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 362
+
+start 363: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.041)
+www.google.com.......
+long time (99.846)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 358
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 363
+
+start 364: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.566)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 359
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 364
+
+start 365: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.974)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 360
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 365
+
+start 366: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (75.891)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 361
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 366
+
+start 367: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (82.372)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 362
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 367
+
+start 368: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.214)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 363
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 368
+
+start 369: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (75.685)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 364
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 369
+
+start 370: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (77.183)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 365
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 370
+
+start 371: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (81.463)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 366
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 371
+
+start 372: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.091)
+www.google.com.......
+long time (79.400)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 367
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 372
+
+start 373: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (79.370)
+www.google.com: no_connection_count = 5
+www.google.com: long_time_count = 368
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 373
+
+start 374: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 368
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 374
+
+start 375: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.399)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 369
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 375
+
+start 376: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.366)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 370
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 376
+
+start 377: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (75.794)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 371
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 377
+
+start 378: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.591)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 372
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 378
+
+start 379: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (77.971)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 373
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 379
+
+start 380: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.923)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 374
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 380
+
+start 381: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.884)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 375
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 381
+
+start 382: =============================
+PINGING (X10) =========
+localhost.......
+good time (1.207)
+www.google.com.......
+long time (75.872)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 376
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 382
+
+start 383: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.142)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 377
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 383
+
+start 384: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (74.467)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 378
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 384
+
+start 385: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (88.796)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 379
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 385
+
+start 386: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (98.909)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 380
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 386
+
+start 387: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (92.246)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 381
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 387
+
+start 388: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (85.769)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 382
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 388
+
+start 389: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (107.349)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 383
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 389
+
+start 390: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (87.114)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 384
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 390
+
+start 391: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (119.542)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 385
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 391
+
+start 392: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (76.766)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 386
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 392
+
+start 393: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (175.213)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 387
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 393
+
+start 394: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.168)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 388
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 394
+
+start 395: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (100.707)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 389
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 395
+
+start 396: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (85.011)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 390
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 396
+
+start 397: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (97.119)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 391
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 397
+
+start 398: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.892)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 392
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 398
+
+start 399: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (75.940)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 393
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 399
+
+start 400: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (78.599)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 394
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 400
+
+start 401: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.172)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 395
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 401
+
+start 402: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.962)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 396
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 402
+
+start 403: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.039)
+www.google.com.......
+long time (122.541)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 397
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 403
+
+start 404: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.041)
+www.google.com.......
+long time (78.760)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 398
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 404
+
+start 405: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (76.413)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 399
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 405
+
+start 406: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (75.693)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 400
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 406
+
+start 407: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (82.729)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 401
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 407
+
+start 408: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (139.524)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 402
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 408
+
+start 409: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (123.403)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 403
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 409
+
+start 410: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (236.657)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 404
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 410
+
+start 411: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (89.881)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 405
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 411
+
+start 412: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (77.611)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 406
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 412
+
+start 413: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (77.193)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 407
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 413
+
+start 414: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.024)
+www.google.com.......
+long time (73.843)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 408
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 414
+
+start 415: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (88.449)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 409
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 415
+
+start 416: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (80.212)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 410
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 416
+
+start 417: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (82.798)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 411
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 417
+
+start 418: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (127.786)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 412
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 418
+
+start 419: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (89.423)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 413
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 419
+
+start 420: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.820)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 414
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 420
+
+start 421: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (77.006)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 415
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 421
+
+start 422: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.649)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 416
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 422
+
+start 423: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (76.123)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 417
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 423
+
+start 424: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (78.484)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 418
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 424
+
+start 425: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.425)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 419
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 425
+
+start 426: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.932)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 420
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 426
+
+start 427: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (78.156)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 421
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 427
+
+start 428: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (78.056)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 422
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 428
+
+start 429: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (77.256)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 423
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 429
+
+start 430: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (90.733)
+www.google.com: no_connection_count = 6
+www.google.com: long_time_count = 424
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 430
+
+start 431: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.038)
+www.google.com.......
+no connection
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 424
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 431
+
+start 432: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.129)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 425
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 432
+
+start 433: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.039)
+www.google.com.......
+long time (76.599)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 426
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 433
+
+start 434: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.039)
+www.google.com.......
+long time (78.758)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 427
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 434
+
+start 435: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (143.802)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 428
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 435
+
+start 436: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (78.193)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 429
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 436
+
+start 437: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (77.196)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 430
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 437
+
+start 438: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (80.426)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 431
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 438
+
+start 439: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (127.597)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 432
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 439
+
+start 440: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (149.650)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 433
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 440
+
+start 441: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.079)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 434
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 441
+
+start 442: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (77.177)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 435
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 442
+
+start 443: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (142.440)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 436
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 443
+
+start 444: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.969)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 437
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 444
+
+start 445: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (81.729)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 438
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 445
+
+start 446: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (75.558)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 439
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 446
+
+start 447: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (77.788)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 440
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 447
+
+start 448: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.038)
+www.google.com.......
+long time (79.919)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 441
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 448
+
+start 449: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.476)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 442
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 449
+
+start 450: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.283)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 443
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 450
+
+start 451: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (93.267)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 444
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 451
+
+start 452: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (157.314)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 445
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 452
+
+start 453: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (77.989)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 446
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 453
+
+start 454: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (75.993)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 447
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 454
+
+start 455: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.041)
+www.google.com.......
+long time (76.255)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 448
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 455
+
+start 456: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (92.028)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 449
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 456
+
+start 457: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (79.085)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 450
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 457
+
+start 458: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (91.018)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 451
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 458
+
+start 459: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (97.404)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 452
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 459
+
+start 460: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (127.373)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 453
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 460
+
+start 461: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (100.622)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 454
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 461
+
+start 462: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (79.450)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 455
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 462
+
+start 463: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (83.787)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 456
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 463
+
+start 464: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (147.538)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 457
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 464
+
+start 465: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (74.660)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 458
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 465
+
+start 466: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (78.271)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 459
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 466
+
+start 467: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (75.329)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 460
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 467
+
+start 468: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (101.823)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 461
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 468
+
+start 469: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (75.790)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 462
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 469
+
+start 470: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (83.573)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 463
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 470
+
+start 471: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (76.648)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 464
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 471
+
+start 472: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (157.326)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 465
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 472
+
+start 473: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.317)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 466
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 473
+
+start 474: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (79.547)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 467
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 474
+
+start 475: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.055)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 468
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 475
+
+start 476: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (195.019)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 469
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 476
+
+start 477: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.684)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 470
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 477
+
+start 478: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (154.362)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 471
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 478
+
+start 479: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.044)
+www.google.com.......
+long time (78.317)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 472
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 479
+
+start 480: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (78.454)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 473
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 480
+
+start 481: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (75.069)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 474
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 481
+
+start 482: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (119.819)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 475
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 482
+
+start 483: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (79.091)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 476
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 483
+
+start 484: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (83.995)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 477
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 484
+
+start 485: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (149.504)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 478
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 485
+
+start 486: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.038)
+www.google.com.......
+long time (849.139)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 479
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 486
+
+start 487: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (76.161)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 480
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 487
+
+start 488: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (121.301)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 481
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 488
+
+start 489: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (150.926)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 482
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 489
+
+start 490: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (76.665)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 483
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 490
+
+start 491: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (78.859)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 484
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 491
+
+start 492: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (84.088)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 485
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 492
+
+start 493: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (208.220)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 486
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 493
+
+start 494: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (120.417)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 487
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 494
+
+start 495: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (76.966)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 488
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 495
+
+start 496: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (76.165)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 489
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 496
+
+start 497: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (79.450)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 490
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 497
+
+start 498: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (184.973)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 491
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 498
+
+start 499: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (75.797)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 492
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 499
+
+start 500: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (76.106)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 493
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 500
+
+start 501: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (82.849)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 494
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 501
+
+start 502: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (76.930)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 495
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 502
+
+start 503: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (80.022)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 496
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 503
+
+start 504: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (87.734)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 497
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 504
+
+start 505: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (114.250)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 498
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 505
+
+start 506: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (130.698)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 499
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 506
+
+start 507: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.037)
+www.google.com.......
+long time (78.934)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 500
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 507
+
+start 508: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (311.478)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 501
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 508
+
+start 509: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (81.049)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 502
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 509
+
+start 510: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.317)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 503
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 510
+
+start 511: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (76.609)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 504
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 511
+
+start 512: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.042)
+www.google.com.......
+long time (87.606)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 505
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 512
+
+start 513: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (93.427)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 506
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 513
+
+start 514: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.033)
+www.google.com.......
+long time (78.436)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 507
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 514
+
+start 515: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.031)
+www.google.com.......
+long time (97.440)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 508
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 515
+
+start 516: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (77.600)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 509
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 516
+
+start 517: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (77.096)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 510
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 517
+
+start 518: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (84.478)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 511
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 518
+
+start 519: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.034)
+www.google.com.......
+long time (136.333)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 512
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 519
+
+start 520: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (151.062)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 513
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 520
+
+start 521: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (78.920)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 514
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 521
+
+start 522: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.036)
+www.google.com.......
+long time (81.278)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 515
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 522
+
+start 523: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (77.226)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 516
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 523
+
+start 524: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.040)
+www.google.com.......
+long time (88.815)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 517
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 524
+
+start 525: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (76.156)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 518
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 525
+
+start 526: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (82.047)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 519
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 526
+
+start 527: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (166.098)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 520
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 527
+
+start 528: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (80.242)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 521
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 528
+
+start 529: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (130.710)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 522
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 529
+
+start 530: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (77.307)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 523
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 530
+
+start 531: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.030)
+www.google.com.......
+long time (110.141)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 524
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 531
+
+start 532: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.042)
+www.google.com.......
+long time (77.808)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 525
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 532
+
+start 533: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (76.566)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 526
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 533
+
+start 534: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.038)
+www.google.com.......
+long time (74.997)
+www.google.com: no_connection_count = 7
+www.google.com: long_time_count = 527
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 534
+
+start 535: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (101.185)
+www.google.com: long_time_count = 1
+192.168.1.66.......

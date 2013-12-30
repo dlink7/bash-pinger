@@ -1,0 +1,921 @@
+start 1: =============================
+[A] PINGING ========
+sleeping...
+start 2: =============================
+[A] PINGING ========
+sleeping...
+start 1: =============================
+[A] PINGING ========
+sleeping...
+start 2: =============================
+[A] PINGING ========
+sleeping...
+start 1: =============================
+[A] PINGING ========
+sleeping...
+start 1: =============================
+[A] PINGING ========
+sleeping...
+start 1: =============================
+[A] PINGING ========
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (5.532)
+in pingy
+192.168.1.1...
+good time (1.357)
+in pingy
+www.google.com...
+long time (104.823)
+in pingy
+localhost...
+good time (0.027)
+in pingy
+192.168.1.83...
+good time (2.778)
+in pingy
+#trfyguhij...
+return code is error code
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (134.656)
+in pingy
+192.168.1.1...
+good time (1.368)
+in pingy
+www.google.com...
+long time (613.762)
+in pingy
+localhost...
+good time (0.028)
+in pingy
+192.168.1.83...
+long time (33.829)
+in pingy
+#trfyguhij...
+return code is error code
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (10.207)
+in pingy
+192.168.1.1...
+long time (4.973)
+in pingy
+www.google.com...
+long time (88.964)
+in pingy
+localhost...
+good time (0.030)
+in pingy
+192.168.1.83...
+good time (2.895)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat: 1 (192.168.1.1)
+repeat: 1 (192.168.1.20)
+repeat: 1 (www.google.com)
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (5.462)
+in pingy
+192.168.1.1...
+long time (6.439)
+in pingy
+www.google.com...
+long time (81.417)
+in pingy
+localhost...
+good time (0.028)
+in pingy
+192.168.1.83...
+long time (6.737)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat: 1 (192.168.1.1)
+repeat: 1 (192.168.1.20)
+repeat: 1 (192.168.1.83)
+repeat: 1 (www.google.com)
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.564)
+in pingy
+192.168.1.1...
+good time (1.379)
+in pingy
+www.google.com...
+long time (132.167)
+in pingy
+localhost...
+good time (0.028)
+in pingy
+192.168.1.83...
+good time (2.780)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat: 1 (www.google.com)
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.948)
+in pingy
+192.168.1.1...
+long time (4.196)
+in pingy
+www.google.com...
+return code is error code
+in pingy
+localhost...
+good time (0.029)
+in pingy
+192.168.1.83...
+good time (1.509)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat: 1 (www.google.com)
+repeat: 1 (192.168.1.1)
+sleeping...
+start 2: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.471)
+in pingy
+192.168.1.1...
+long time (3.797)
+in pingy
+www.google.com...
+long time (80.465)
+in pingy
+localhost...
+good time (0.028)
+in pingy
+192.168.1.83...
+good time (1.626)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 2 (#trfyguhij)
+repeat: 1 (www.google.com)
+repeat: 2 (192.168.1.1)
+repeat: 1 (www.google.com)
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (57.545)
+in pingy
+192.168.1.1...
+good time (1.454)
+in pingy
+www.google.com...
+long time (144.401)
+in pingy
+localhost...
+good time (0.024)
+in pingy
+192.168.1.83...
+good time (1.466)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat: 1 (192.168.1.20)
+repeat: 1 (www.google.com)
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (3.071)
+in pingy
+192.168.1.1...
+good time (1.483)
+in pingy
+www.google.com...
+long time (83.719)
+in pingy
+localhost...
+good time (0.030)
+in pingy
+192.168.1.83...
+long time (5.273)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+
+repeat: 1 (192.168.1.20)
+
+repeat: 1 (192.168.1.83)
+
+repeat: 1 (www.google.com)
+
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.611)
+in pingy
+192.168.1.1...
+good time (1.359)
+in pingy
+www.google.com...
+long time (96.218)
+in pingy
+localhost...
+good time (0.028)
+in pingy
+192.168.1.83...
+good time (1.480)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat limit is: --
+repeat: 1 (www.google.com)
+repeat limit is: --
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+time limit is: 3--
+long time (84.228)
+in pingy
+192.168.1.1...
+time limit is: 3--
+good time (1.658)
+in pingy
+www.google.com...
+time limit is: 3--
+long time (86.128)
+in pingy
+localhost...
+time limit is: 3--
+good time (0.027)
+in pingy
+192.168.1.83...
+time limit is: 3--
+long time (133.443)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat limit is: --
+repeat: 1 (192.168.1.20)
+repeat limit is: --
+repeat: 1 (192.168.1.83)
+repeat limit is: --
+repeat: 1 (www.google.com)
+repeat limit is: --
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+time limit is: 3--
+good time (1.430)
+in pingy
+192.168.1.1...
+time limit is: 3--
+good time (2.742)
+in pingy
+www.google.com...
+time limit is: 3--
+long time (84.961)
+in pingy
+localhost...
+time limit is: 3--
+good time (0.028)
+in pingy
+192.168.1.83...
+time limit is: 3--
+long time (193.093)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat limit is: --
+repeat: 1 (192.168.1.83)
+repeat limit is: --
+repeat: 1 (www.google.com)
+repeat limit is: --
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+time limit is: 3--
+good time (1.551)
+in pingy
+192.168.1.1...
+time limit is: 3--
+long time (3.485)
+in pingy
+www.google.com...
+time limit is: 3--
+long time (80.261)
+in pingy
+localhost...
+time limit is: 3--
+good time (0.028)
+in pingy
+192.168.1.83...
+time limit is: 3--
+good time (1.462)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat limit is: --
+repeat: 1 (192.168.1.1)
+repeat limit is: --
+repeat: 1 (www.google.com)
+repeat limit is: --
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+time limit is: 3--
+good time (1.535)
+in pingy
+192.168.1.1...
+time limit is: 3--
+good time (1.600)
+in pingy
+www.google.com...
+time limit is: 3--
+long time (203.470)
+in pingy
+localhost...
+time limit is: 3--
+good time (0.027)
+in pingy
+192.168.1.83...
+time limit is: 3--
+good time (1.707)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat limit is: 2--
+repeat: 1 (www.google.com)
+repeat limit is: 2--
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+time limit is: 3--
+good time (1.496)
+in pingy
+192.168.1.1...
+time limit is: 3--
+good time (1.310)
+in pingy
+www.google.com...
+time limit is: 3--
+long time (81.870)
+in pingy
+localhost...
+time limit is: 3--
+good time (0.035)
+in pingy
+192.168.1.83...
+time limit is: 3--
+long time (7.572)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat limit is: 2--
+repeat: 1 (192.168.1.83)
+repeat limit is: 2--
+repeat: 1 (www.google.com)
+repeat limit is: 2--
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.480)
+in pingy
+192.168.1.1...
+good time (2.455)
+in pingy
+www.google.com...
+long time (196.971)
+in pingy
+localhost...
+good time (0.030)
+in pingy
+192.168.1.83...
+good time (1.422)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (#trfyguhij)
+repeat: 1 (www.google.com)
+sleeping...
+start 2: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.647)
+in pingy
+192.168.1.1...
+good time (1.334)
+in pingy
+www.google.com...
+long time (77.528)
+in pingy
+localhost...
+good time (0.028)
+in pingy
+192.168.1.83...
+good time (1.930)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 2 (#trfyguhij)
+repeat: 2 (www.google.com)
+sleeping...
+start 3: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.416)
+in pingy
+192.168.1.1...
+good time (1.324)
+in pingy
+www.google.com...
+long time (406.075)
+in pingy
+localhost...
+good time (0.033)
+in pingy
+192.168.1.83...
+good time (1.709)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 3 (#trfyguhij)
+repeat: 3 (www.google.com)
+SMS:  \n no connection to : #trfyguhij \n long time to ips: : www.google.com
+sleeping...
+start 4: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (24.190)
+in pingy
+192.168.1.1...
+long time (47.800)
+in pingy
+www.google.com...
+long time (110.552)
+in pingy
+localhost...
+good time (0.029)
+in pingy
+192.168.1.83...
+good time (1.447)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 4 (#trfyguhij)
+repeat: 1 (192.168.1.1)
+repeat: 1 (192.168.1.20)
+repeat: 4 (www.google.com)
+SMS:  \n no connection to : #trfyguhij \n long time to ips: : www.google.com
+sleeping...
+start 5: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (30.780)
+in pingy
+192.168.1.1...
+long time (10.488)
+in pingy
+www.google.com...
+long time (107.898)
+in pingy
+localhost...
+good time (0.027)
+in pingy
+192.168.1.83...
+long time (53.946)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+repeat: 5 (#trfyguhij)
+repeat: 2 (192.168.1.1)
+repeat: 2 (192.168.1.20)
+repeat: 1 (192.168.1.83)
+repeat: 5 (www.google.com)
+SMS:  \n no connection to : #trfyguhij \n long time to ips: : www.google.com
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+long time (63.797)
+in pingy
+192.168.1.1...
+good time (1.333)
+in pingy
+www.google.com...
+long time (115.378)
+in pingy
+localhost...
+good time (0.027)
+in pingy
+192.168.1.83...
+long time (105.530)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 1 (#trfyguhij)
+EMPTY LIST EXPECTED: ---
+repeat: 1 (192.168.1.20)
+repeat: 1 (192.168.1.83)
+repeat: 1 (www.google.com)
+sleeping...
+start 2: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (1.516)
+in pingy
+192.168.1.1...
+good time (1.759)
+in pingy
+www.google.com...
+long time (77.181)
+in pingy
+localhost...
+good time (0.027)
+in pingy
+192.168.1.83...
+good time (1.417)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 2 (#trfyguhij)
+EMPTY LIST EXPECTED: ---
+repeat: 1 (192.168.1.20)
+repeat: 1 (192.168.1.83)
+repeat: 2 (www.google.com)
+sleeping...
+start 3: =============================
+[A] PINGING ========
+in pingy
+192.168.1.20...
+good time (2.468)
+in pingy
+192.168.1.1...
+good time (1.364)
+in pingy
+www.google.com...
+long time (115.437)
+in pingy
+localhost...
+good time (0.029)
+in pingy
+192.168.1.83...
+good time (1.642)
+in pingy
+#trfyguhij...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 3 (#trfyguhij)
+EMPTY LIST EXPECTED: ---
+repeat: 1 (192.168.1.20)
+repeat: 1 (192.168.1.83)
+repeat: 3 (www.google.com)
+SMS:  \n no connection to : #trfyguhij \n long time to ips: : www.google.com
+sleeping...
+start 1: =============================
+[A] PINGING ========
+in pingy
+localhost...
+good time (0.036)
+in pingy
+www.google.com...
+long time (79.950)
+in pingy
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 1 (192.168.1.66)
+EMPTY LIST EXPECTED: ---
+repeat: 1 (www.google.com)
+sleeping...
+start 2: =============================
+[A] PINGING ========
+in pingy
+localhost...
+good time (0.033)
+in pingy
+www.google.com...
+long time (102.880)
+in pingy
+192.168.1.66...
+start 1: =============================
+[A] PINGING ========
+localhost...
+good time (0.027)
+www.google.com...
+long time (96.650)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 1 (192.168.1.66)
+EMPTY LIST EXPECTED: ---
+repeat: 1 (www.google.com)
+sleeping...
+start 2: =============================
+[A] PINGING ========
+localhost...
+good time (0.027)
+www.google.com...
+long time (138.882)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 2 (192.168.1.66)
+EMPTY LIST EXPECTED: ---
+repeat: 2 (www.google.com)
+sleeping...
+start 3: =============================
+[A] PINGING ========
+localhost...
+good time (0.027)
+www.google.com...
+long time (83.467)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 3 (192.168.1.66)
+EMPTY LIST EXPECTED: ---
+repeat: 3 (www.google.com)
+SMS:  \n no connection to : 192.168.1.66 \n long time to ips: : www.google.com
+sleeping...
+start 4: =============================
+[A] PINGING ========
+localhost...
+good time (0.027)
+www.google.com...
+long time (97.319)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 4 (192.168.1.66)
+EMPTY LIST EXPECTED: ---
+repeat: 4 (www.google.com)
+SMS:  \n no connection to : 192.168.1.66 \n long time to ips: : www.google.com
+sleeping...
+start 5: =============================
+[A] PINGING ========
+localhost...
+good time (0.026)
+www.google.com...
+long time (78.951)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+EMPTY LIST EXPECTED: ---
+repeat: 5 (192.168.1.66)
+EMPTY LIST EXPECTED: ---
+repeat: 5 (www.google.com)
+SMS:  \n no connection to : 192.168.1.66 \n long time to ips: : www.google.com
+sleeping...
+start 1: =============================
+[A] PINGING ========
+localhost...
+good time (0.028)
+www.google.com...
+long time (120.104)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (192.168.1.66)
+repeat: 1 (www.google.com)
+sleeping...
+start 2: =============================
+[A] PINGING ========
+localhost...
+good time (0.026)
+www.google.com...
+long time (145.484)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+repeat: 2 (192.168.1.66)
+repeat: 2 (www.google.com)
+sleeping...
+start 3: =============================
+[A] PINGING ========
+localhost...
+good time (0.027)
+www.google.com...
+long time (235.283)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+repeat: 3 (192.168.1.66)
+repeat: 3 (www.google.com)
+SMS:  \n no connection to : 192.168.1.66 \n long time to ips: : www.google.com
+sleeping...
+start 4: =============================
+[A] PINGING ========
+localhost...
+good time (0.025)
+www.google.com...
+long time (102.984)
+192.168.1.66...
+return code is error code
+[B] CHECKING =======
+repeat: 1 (192.168.1.66)
+repeat: 1 (www.google.com)
+sleeping...
+start 1: =============================
+[A] PINGING ========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (372.505)
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (75.907)
+Long time count of www.google.com is 1
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (75.258)
+Long time count of www.google.com is 1
+192.168.1.66.......
+no connection
+No connection count of 192.168.1.66 is 1
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (94.640)
+Long time count of www.google.com is 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.032)
+www.google.com.......
+long time (266.521)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.035)
+www.google.com.......
+long time (142.401)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.028)
+www.google.com.......
+long time (76.521)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+start 1: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (177.410)
+www.google.com: long_time_count = 1
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 1
+start 2: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (158.543)
+www.google.com: long_time_count = 2
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 2
+start 3: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.369)
+www.google.com: long_time_count = 3
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 3
+start 4: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.029)
+www.google.com.......
+long time (74.872)
+www.google.com: long_time_count = 4
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 4
+start 5: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.026)
+www.google.com.......
+long time (77.200)
+www.google.com: long_time_count = 5
+192.168.1.66.......
+no connection
+192.168.1.66: no_connection_count = 5
+start 6: =============================
+PINGING (X10) =========
+localhost.......
+good time (0.027)
+www.google.com.......
+long time (78.415)
+www.google.com: long_time_count = 6
+192.168.1.66.......

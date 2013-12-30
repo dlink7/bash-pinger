@@ -1,0 +1,106 @@
+command mode esc
+insert mode i
+move one word fwd w
+move one word bw b
+go to end line $    ------ or command mode $
+go to begin line 0  ------ or command mode ^
+
+move to end of word e or E
+move to next paragraph } , previous paragraph is {
+to move arround on visible screen:
+top(high) H
+middle M
+bottom(low) L
+
+page down ^f
+page up   ^b
+end        G
+
+go to line 33: 33G
+or command mode > :33
+
+quit no save: q!
+save and quit: shift+zz or :wq
+
+append command a - takes you one character next and in insert mode
+Insert capital I - takes you at begging line and insert mode
+append Capital A - takes you at end line and in insert mode
+
+append new line below and go in insert mode o
+Capital O - append new line above current line and go in to insert mode
+
+DELETE:
+----------------
+del char x
+backspace char X
+del 34 chars 34x
+
+del word dw
+repeat command .
+
+d0 - delets from current to line begin
+d$ - yap
+
+dd --- delete a whole line
+23dd -- delete 23 lines
+
+copy paste:
+--------------
+yy copy line --- 5yy copy 5 lines
+dd cut line 
+p paste line  ----7p paste 7 times
+
+j join 2 lines   ---- 5j join 5 lines
+
+
+search:
+-----------
+/<some word>  search
+n next occurence
+?<some word> search reverse direction
+
+search and replace:
+--------------------
+:1,$s/phil/PHIL
+means scope is from line 1 to $(end of file)
+s is search command
+search for phil and replace with PHIL
+[but this only replaces it once per line]
+
+to make it replace all
+:1,$s/phil/PHIL/g
+g is global (replace all)
+another option there is i
+i means case insensitive
+
+undo --- is u
+undo all changes to entire line --- is U
+repeat last command --- is .
+
+change word ---- cw
+how it works: lets say i want to replace leul to LEUL
+first /leul then when cursor takes me to leul i press cw
+and it removes leul and waits me to add text to replace it with
+
+and then i can use the . to replace others one by one
+
+view line numbers:
+------------------------
+:se nu
+no line numbers is :se nonu
+
+delete lines:
+from line 3 to 5 > :3,5d
+
+delete lines containing <abebe> from line 1 to end of file
+:1,$g/abebe/d
+
+delete lines containing <abebe> from line 1 to current line
+:1,.g/abebe/d
+
+arrows:
+------------
+hjkl === left,down,up,right
+
+INDENT CODE!!!!!! command mode gg=G
+
